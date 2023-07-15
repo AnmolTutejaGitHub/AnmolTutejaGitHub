@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AnmolTutejaGitHub
+- 🌱 I’m currently learning C
+- 📫 How to reach me .... tutejaanmol54@gmail.com
