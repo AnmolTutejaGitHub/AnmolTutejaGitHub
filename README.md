@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @AnmolTutejaGitHub
-- 🌱 I’m currently learning C
-- 📫 How to reach me .... tutejaanmol54@gmail.com
+- 👋 Hi, I’m Anmol Tuteja
+- I am cse'27 student
+- Language : C
+-
+- E mail : tutejaanmol54@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anmol-tuteja-684b0327b
+- Let's connect 
