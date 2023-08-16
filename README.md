@@ -3,9 +3,9 @@
 - Language : C, HTML
 -# My Social Media Links
 
-[![Instagram](https://github.githubassets.com/images/modules/logos_page/Instagram-Logo.png)](https://www.instagram.com/anmoltuteja287/)
-[![LinkedIn](https://github.githubassets.com/images/modules/logos_page/LinkedIn-Logo.png)](https://www.linkedin.com/in/anmol-tuteja-684b0327b/)
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)](https://github.com/AnmolTutejaGitHub/)
+[![LinkedIn](http://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png | height=32 width=32)](https://www.linkedin.com/in/anmol-tuteja-684b0327b/)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png | height=32 width=32)](https://www.instagram.com/anmoltuteja287/)
+[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png | height=32 width=32)](https://github.com/AnmolTutejaGitHub/)
 
 - E mail : tutejaanmol54@gmail.com
 - Let's connect 
