@@ -2,7 +2,7 @@
 - I am cse'27 student
 - Language :Python, C, HTML , Basic CSS
 - My Social Media Links
-- learning web development and python currently 
+- learning javascript currently
 
 <a href="https://www.linkedin.com/in/anmol-tuteja-684b0327b/"><img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="LinkedIn" height="32" width="32"></a>
 <a href="https://www.instagram.com/anmoltuteja287/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Instagram" height="32" width="32"></a>
