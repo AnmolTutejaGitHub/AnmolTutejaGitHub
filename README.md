@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anmol Tuteja
 - I am cse'27 student
-- Language :Python, C, HTML , Basic CSS
+- Language :Python, C, HTML , CSS
 - learning javascript currently
 - My Social Media Links
 
