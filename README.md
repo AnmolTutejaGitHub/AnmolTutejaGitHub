@@ -5,7 +5,7 @@
 - My Social Media Links
 
 <a href="https://www.linkedin.com/in/anmol-tuteja-684b0327b/"><img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="LinkedIn" height="32" width="32"></a>
-<a href="https://www.instagram.com/anmoltuteja287/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Instagram" height="32" width="32"></a>
+<a href="https://leetcode.com/AnmolTuteja/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Fleetcode&psig=AOvVaw19hBhL042OQdgYtp-Li1_t&ust=1703797262446000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNDKzsjBsIMDFQAAAAAdAAAAABAE" alt="Leetcode" height="32" width="32"></a>
 <a href="https://github.com/AnmolTutejaGitHub/"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="32" width="32"></a>
 
 - E mail : tutejaanmol54@gmail.com
