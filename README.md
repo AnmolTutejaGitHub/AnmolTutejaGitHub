@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anmol Tuteja
 - I am cse'27 student
 - Language :Python, C, HTML , CSS
-- learning javascript currently
+- learning javascript and Java currently
 - My Social Media Links
 
 <a href="https://www.linkedin.com/in/anmol-tuteja-684b0327b/"><img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="LinkedIn" height="32" width="32"></a>
