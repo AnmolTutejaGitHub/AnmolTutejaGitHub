@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anmol Tuteja
 - Learning C , Python , CSS , javascript , Java
-- 
+
 <a href="https://www.linkedin.com/in/anmol-tuteja-684b0327b/"><img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="LinkedIn" height="32" width="32"></a>
 <a href="https://leetcode.com/AnmolTuteja/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="Leetcode" height="32" width="32"></a>
 
