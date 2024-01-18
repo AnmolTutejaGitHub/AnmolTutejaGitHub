@@ -14,7 +14,7 @@
   <div align="center">
   <table  style="border:0px solid white; width:100%;">
     <tr style="border:0px;">
-      <th style="border:0px;"><h1><a href="https://31b4.com/" target="_blank">Anmol Tuteja<a/><h1/><th/>
+      <th style="border:0px;"><h1>Anmol Tuteja<a/><h1/><th/>
       <th style="border:0px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTutejaGitHub&layout=compact&bg_color=000&title_color=fff&text_color=fff&border_color=fff"/><th/>
     <tr/>
   <table/>
