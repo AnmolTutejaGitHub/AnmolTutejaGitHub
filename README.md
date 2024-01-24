@@ -29,11 +29,11 @@ I'm passionate about coding and currently expanding my skills in C, Python, CSS,
 - Contributions in the Last Year: ![Yearly Contributions](https://img.shields.io/github/last-commit/AnmolTutejaGitHub/AnmolTutejaGitHub?label=contributions%20in%20the%20last%20year)
 
 ## Tech Stack 💻
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=5382A1)
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=A8B9CC)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=1572B6)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=5382A1)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## Let's Code Together! 💻
 Feel free to explore my repositories, provide feedback, or collaborate on interesting projects. Let's learn and grow together in the world of coding!
