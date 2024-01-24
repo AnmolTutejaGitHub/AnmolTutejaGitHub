@@ -29,6 +29,7 @@ I'm passionate about coding and currently expanding my skills in C, Python, CSS,
 - Contributions in the Last Year: ![Yearly Contributions](https://img.shields.io/github/last-commit/AnmolTutejaGitHub/AnmolTutejaGitHub?label=contributions%20in%20the%20last%20year)
 
 ## Tech Stack 💻
+## Tech Stack 💻
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
