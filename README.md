@@ -9,7 +9,12 @@ I'm passionate about coding and currently expanding my skills in C, Python, CSS,
 
 ## Coding Journey Stats 📊
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTutejaGitHub&layout=compact&bg_color=000&title_color=fff&text_color=fff&border_color=fff"/>
+  <table  style="border:0px solid white; width:100%;">
+    <tr style="border:0px;">
+      <th style="border:0px;"><h1>Anmol Tuteja<a/><h1/><th/>
+      <th style="border:0px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTutejaGitHub&layout=compact&bg_color=000&title_color=fff&text_color=fff&border_color=fff"/><th/>
+    <tr/>
+  </table>
 </div>
 
 ## GitHub Contributions Streak 🔥
@@ -18,8 +23,9 @@ I'm passionate about coding and currently expanding my skills in C, Python, CSS,
 </div>
 
 ## Additional Stats 📈
-- Total Repositories: ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-15-blue)
-- Total Commits: ![Total Commits](https://img.shields.io/badge/Total%20Commits-750-brightgreen)
+- Total Repositories: ![Total Repositories](https://img.shields.io/github/repo-count/AnmolTutejaGitHub/AnmolTutejaGitHub?style=flat-square)
+- Total Commits: ![Total Commits](https://img.shields.io/badge/Total%20Commits-1000-brightgreen)
+- Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=AnmolTutejaGitHub&color=blue&style=flat-square)
 - GitHub Stars: ![GitHub Stars](https://img.shields.io/github/stars/AnmolTutejaGitHub?style=social)
 - Followers: ![GitHub Followers](https://img.shields.io/github/followers/AnmolTutejaGitHub?style=social)
 - Contributions in the Last Year: ![Yearly Contributions](https://img.shields.io/github/last-commit/AnmolTutejaGitHub/AnmolTutejaGitHub?label=contributions%20in%20the%20last%20year)
