@@ -23,8 +23,8 @@ I'm passionate about coding and currently expanding my skills in C, Python, CSS,
 </div>
 
 ## Additional Stats 📈
-- Total Repositories: ![Total Repositories](https://img.shields.io/github/repo-count/AnmolTutejaGitHub/AnmolTutejaGitHub?style=flat-square)
-- Total Commits: ![Total Commits](https://img.shields.io/badge/Total%20Commits-1000-brightgreen)
+- Total Repositories: ![Total Repositories](https://img.shields.io/badge/Total%15Repositories-15-blue)
+- Total Commits: ![Weekly Commits](https://github.com/anmol098/waka-readme-stats/blob/master/generated/overview.svg?token="")
 - Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=AnmolTutejaGitHub&color=blue&style=flat-square)
 - GitHub Stars: ![GitHub Stars](https://img.shields.io/github/stars/AnmolTutejaGitHub?style=social)
 - Followers: ![GitHub Followers](https://img.shields.io/github/followers/AnmolTutejaGitHub?style=social)
