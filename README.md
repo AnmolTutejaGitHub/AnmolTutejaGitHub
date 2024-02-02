@@ -8,7 +8,7 @@ I'm passionate about coding and currently expanding my skills in C, Python, CSS,
 <a href="https://www.linkedin.com/in/anmol-tuteja-684b0327b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnmolTuteja" height="30" width="40" /></a>
 <a href="https://leetcode.com/AnmolTuteja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnmolTuteja" height="30" width="40" /></a>
 </p>
-- Email: tutejaanmol54@gmail.com
+Email : tutejaanmol54@gmail.com
 
 ## Coding Journey Stats 📊
 <div align="center">
