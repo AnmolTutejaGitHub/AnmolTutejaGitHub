@@ -3,14 +3,12 @@
 I'm passionate about coding and currently expanding my skills in C, Python, CSS, JavaScript, and Java. Learning is a journey, and I'm thrilled to be on this exciting one in the world of programming.
 
 ## Let's Connect 🌐
-- LinkedIn: [Anmol Tuteja](https://www.linkedin.com/in/anmol-tuteja-684b0327b/)
-- LeetCode: [AnmolTuteja](https://leetcode.com/AnmolTuteja/)
-- Email: tutejaanmol54@gmail.com
 <p align="left">
 <a href="https://twitter.com/Anmol_Tuteja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anmol_Tuteja_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anmol-tuteja-684b0327b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnmolTuteja" height="30" width="40" /></a>
 <a href="https://leetcode.com/AnmolTuteja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnmolTuteja" height="30" width="40" /></a>
 </p>
+- Email: tutejaanmol54@gmail.com
 
 ## Coding Journey Stats 📊
 <div align="center">
