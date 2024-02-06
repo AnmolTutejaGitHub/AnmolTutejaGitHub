@@ -10,6 +10,14 @@ I'm passionate about coding and currently expanding my skills in C, Python, CSS,
 </p>
 Email : tutejaanmol54@gmail.com
 
+## To connect with me, execute the following commands in your terminal:
+ ### Install the package:
+ 
+        npm install anmoltuteja
+ ### After installation, run the following command to connect:
+
+        node connect.js
+
 ## Coding Journey Stats 📊
 <div align="center">
   <table  style="border:0px solid white; width:100%;">
