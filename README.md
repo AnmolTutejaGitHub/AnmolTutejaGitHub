@@ -2,13 +2,6 @@
 
 I'm passionate about coding and currently expanding my skills in C, Python, CSS, JavaScript, and Java. Learning is a journey, and I'm thrilled to be on this exciting one in the world of programming.
 
-## Let's Connect 🌐
-<p align="left">
-<a href="https://twitter.com/Anmol_Tuteja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anmol_Tuteja_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anmol-tuteja-684b0327b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnmolTuteja" height="30" width="40" /></a>
-<a href="https://leetcode.com/AnmolTuteja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnmolTuteja" height="30" width="40" /></a>
-</p>
-Email : tutejaanmol54@gmail.com
 
 ## To connect with me, execute the following commands in your terminal:
  ### Install the package:
@@ -45,6 +38,14 @@ Email : tutejaanmol54@gmail.com
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## Let's Connect 🌐
+<p align="left">
+<a href="https://twitter.com/Anmol_Tuteja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anmol_Tuteja_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anmol-tuteja-684b0327b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnmolTuteja" height="30" width="40" /></a>
+<a href="https://leetcode.com/AnmolTuteja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnmolTuteja" height="30" width="40" /></a>
+</p>
+Email : tutejaanmol54@gmail.com
 
 ## Let's Code Together! 💻
 Feel free to explore my repositories, provide feedback, or collaborate on interesting projects. Let's learn and grow together in the world of coding!
