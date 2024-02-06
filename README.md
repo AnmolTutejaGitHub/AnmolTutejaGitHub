@@ -6,10 +6,10 @@ I'm passionate about coding and currently expanding my skills in C, Python, CSS,
 ## To connect with me, execute the following commands in your terminal:
  ### Install the package:
  
-        npm install anmoltuteja
+    npm install anmoltuteja
  ### After installation, run the following command to connect:
 
-        node connect.js
+    node connect.js
 
 ## Coding Journey Stats 📊
 <div align="center">
