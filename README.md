@@ -2,17 +2,6 @@
 
 I'm passionate about coding and currently expanding my skills in C, Python, CSS, JavaScript, and Java. Learning is a journey, and I'm thrilled to be on this exciting one in the world of programming.
 
-
-## To connect with me, execute the following commands in your terminal:
- ### Install the package:
-   #### for linux/macOS 
-    sudo npm install -g anmoltuteja
-   #### for windows
-    npm install -g anmoltuteja
-     
- ### After installation, run the following command to connect:
-    connect-anmoltuteja
-
 ## Coding Journey Stats 📊
 <div align="center">
   <table  style="border:0px solid white; width:100%;">
