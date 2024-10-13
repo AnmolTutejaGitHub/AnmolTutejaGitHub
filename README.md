@@ -24,16 +24,10 @@ I'm passionate about coding and currently expanding my skills in C, Python, CSS,
 - Contributions in the Last Year: ![Yearly Contributions](https://img.shields.io/github/last-commit/AnmolTutejaGitHub/AnmolTutejaGitHub?label=contributions%20in%20the%20last%20year)
 
 
+Here’s the updated version of your tech stack, all in one line:
+
 ## Tech Stack 💻
-- ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=A8B9CC)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=5382A1)
-- ![Data Structures & Algorithms](https://img.shields.io/badge/-DSA-4B0082?style=flat-square)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=A8B9CC) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=5382A1) ![Data Structures & Algorithms](https://img.shields.io/badge/-DSA-4B0082?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## Let's Connect 🌐
 <p align="left">
