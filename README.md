@@ -1,17 +1,21 @@
+<h3 align="center">Computer Science and Engineering Student & Aspiring Developer!</h3>
+
 ![Header](https://i.postimg.cc/CLv5QgBn/github-header-image.png)
 
-I'm **Anmol Tuteja**, a passionate **MERN Developer**.
+I'm **Anmol Tuteja**, aspiring **Software Developer**.
 
-- 🌱 I’m continuously learning and enhancing my skills in full-stack development.
--  👯 Looking to collaborate on innovative Node.js and Full Stack projects.
--  💬 Ask me about JavaScript, React, Node.js, or DSA
--  📫 **Reach me at:** business.anmoltuteja@gmail.com
+-  I’m continuously learning and enhancing my skills.
+-  Looking to collaborate on innovative Full Stack projects.
+-  **Reach me at:** anmoltuteja54@gmail.com
 
-## Tech Stack 💻
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=A8B9CC) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=5382A1) ![Data Structures & Algorithms](https://img.shields.io/badge/-DSA-4B0082?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)  
+## Tech Stack
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,c,python,java,git,github,mongodb,express,react,nodejs,docker,postgres,postman,tailwind,redis" />
+</div>
 
 
-## Let's Connect 🌐
+## Let's Connect
 
 <div align="left">
   <a href="https://twitter.com/Anmol_Tuteja_" target="_blank">
@@ -28,22 +32,15 @@ I'm **Anmol Tuteja**, a passionate **MERN Developer**.
   </a>
 </div>
 
-## Coding Journey Stats 📊
+
+
 <div align="center">
-  <table  style="border:0px solid white; width:100%;">
-    <tr style="border:0px;">
-      <th style="border:0px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTutejaGitHub&layout=compact&bg_color=000&title_color=fff&text_color=fff&border_color=fff"/><th/>
-    <tr/>
-  </table>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnmolTutejaGitHub&theme=aura" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnmolTutejaGitHub&theme=aura" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnmolTutejaGitHub&theme=aura" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolTutejaGitHub&theme=aura" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnmolTutejaGitHub&theme=aura&utcOffset=8" alt="Productive Time" />
 </div>
 
-## Additional Stats 📈
-- Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=AnmolTutejaGitHub&color=blue&style=flat-square)
-- GitHub Stars: ![GitHub Stars](https://img.shields.io/github/stars/AnmolTutejaGitHub?style=social)
-- Followers: ![GitHub Followers](https://img.shields.io/github/followers/AnmolTutejaGitHub?style=social)
-- Contributions in the Last Year: ![Yearly Contributions](https://img.shields.io/github/last-commit/AnmolTutejaGitHub/AnmolTutejaGitHub?label=contributions%20in%20the%20last%20year)
-
-## Let's Code Together! 💻
-Feel free to explore my repositories, provide feedback, or collaborate on interesting projects. Let's learn and grow together in the world of coding!
-
-Happy Coding! 🚀
+    
+[![](https://visitcount.itsvg.in/api?id=AnmolTutejaGitHub&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
