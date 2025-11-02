@@ -6,7 +6,7 @@ I'm **Anmol Tuteja**, aspiring **Software Developer**.
 
 -  I’m continuously learning and enhancing my skills.
 -  Looking to collaborate on innovative Full Stack projects.
--  **Reach me at:** anmoltuteja54@gmail.com
+-  **Reach me at:** tutejaanmol54@gmail.com
 
 ## Tech Stack
 
