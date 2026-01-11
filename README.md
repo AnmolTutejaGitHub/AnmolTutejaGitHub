@@ -34,7 +34,7 @@ I'm **Anmol Tuteja**, aspiring **Software Developer**.
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnmolTutejaGitHub&theme=aura" alt="Profile Details" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnmolTutejaGitHub&theme=aura" alt="Repos Per Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnmolTutejaGitHub&theme=aura" alt="Most Commit Language" />
@@ -43,4 +43,4 @@ I'm **Anmol Tuteja**, aspiring **Software Developer**.
 </div>
 
     
-[![](https://visitcount.itsvg.in/api?id=AnmolTutejaGitHub&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AnmolTutejaGitHub&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
